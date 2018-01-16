@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title - 我的 ASP.NET MVC 应用程序</title>
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Styles.Render("~/Content/themes/base/css")
+</head>
+<body>
+    <div id="userSettings">
+        @Html.Partial("_UserSettings")
+    </div>
+
+    <div id="body">
+        @RenderBody()
+    </div>
+
+    <footer>
+        <nav>
+            <ul id="menu">
+                <li>@Html.ActionLink("任务列表", "Index", "Home", new { area = "" }, null)</li>
+                <li>@Html.ActionLink("API", "Index", "Help", new { area = "HelpPage" }, null)</li>
+            </ul>
+        </nav> 
+        <p>了解有关<a href="http://go.microsoft.com/fwlink/?LinkId=273732">单页应用程序</a>的详细信息</p>
+        <p>&copy; @DateTime.Now.Year - 我的 ASP.NET MVC 应用程序</p>
+    </footer>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryui")
+    @Scripts.Render("~/bundles/ajaxlogin")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

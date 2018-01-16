@@ -1,0 +1,13 @@
+D:\Others\VS Projects\AsynchronousProgramming\Asynchronous.WPF.UI\bin\Debug\Asynchronous.WPF.UI.exe.config
+D:\Others\VS Projects\AsynchronousProgramming\Asynchronous.WPF.UI\bin\Debug\Asynchronous.WPF.UI.exe
+D:\Others\VS Projects\AsynchronousProgramming\Asynchronous.WPF.UI\bin\Debug\Asynchronous.WPF.UI.pdb
+D:\Others\VS Projects\AsynchronousProgramming\Asynchronous.WPF.UI\obj\Debug\Asynchronous.WPF.UI.csprojResolveAssemblyReference.cache
+D:\Others\VS Projects\AsynchronousProgramming\Asynchronous.WPF.UI\obj\Debug\MainWindow.baml
+D:\Others\VS Projects\AsynchronousProgramming\Asynchronous.WPF.UI\obj\Debug\MainWindow.g.cs
+D:\Others\VS Projects\AsynchronousProgramming\Asynchronous.WPF.UI\obj\Debug\App.g.cs
+D:\Others\VS Projects\AsynchronousProgramming\Asynchronous.WPF.UI\obj\Debug\Asynchronous.WPF.UI_MarkupCompile.cache
+D:\Others\VS Projects\AsynchronousProgramming\Asynchronous.WPF.UI\obj\Debug\Asynchronous.WPF.UI.g.resources
+D:\Others\VS Projects\AsynchronousProgramming\Asynchronous.WPF.UI\obj\Debug\Asynchronous.WPF.UI.Properties.Resources.resources
+D:\Others\VS Projects\AsynchronousProgramming\Asynchronous.WPF.UI\obj\Debug\Asynchronous.WPF.UI.csproj.GenerateResource.Cache
+D:\Others\VS Projects\AsynchronousProgramming\Asynchronous.WPF.UI\obj\Debug\Asynchronous.WPF.UI.exe
+D:\Others\VS Projects\AsynchronousProgramming\Asynchronous.WPF.UI\obj\Debug\Asynchronous.WPF.UI.pdb
