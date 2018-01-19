@@ -6,3 +6,11 @@ D:\Others\VS Projects\AsynchronousProgramming\Asynchronous.Web.UI\obj\Debug\Asyn
 D:\Others\VS Projects\AsynchronousProgramming\Asynchronous.Web.UI\obj\Debug\Asynchronous.Web.UI.pdb
 D:\Others\VS Projects\AsynchronousProgramming\Asynchronous.Web.UI\bin\Asynchronous.Service.dll
 D:\Others\VS Projects\AsynchronousProgramming\Asynchronous.Web.UI\bin\Asynchronous.Service.pdb
+D:\Others\AsynchronousProgramming\AsynchronousProgramming\Asynchronous.Web.UI\bin\Asynchronous.Web.UI.dll.config
+D:\Others\AsynchronousProgramming\AsynchronousProgramming\Asynchronous.Web.UI\bin\Asynchronous.Web.UI.dll
+D:\Others\AsynchronousProgramming\AsynchronousProgramming\Asynchronous.Web.UI\bin\Asynchronous.Web.UI.pdb
+D:\Others\AsynchronousProgramming\AsynchronousProgramming\Asynchronous.Web.UI\bin\Asynchronous.Service.dll
+D:\Others\AsynchronousProgramming\AsynchronousProgramming\Asynchronous.Web.UI\bin\Asynchronous.Service.pdb
+D:\Others\AsynchronousProgramming\AsynchronousProgramming\Asynchronous.Web.UI\obj\Debug\Asynchronous.Web.UI.csprojResolveAssemblyReference.cache
+D:\Others\AsynchronousProgramming\AsynchronousProgramming\Asynchronous.Web.UI\obj\Debug\Asynchronous.Web.UI.dll
+D:\Others\AsynchronousProgramming\AsynchronousProgramming\Asynchronous.Web.UI\obj\Debug\Asynchronous.Web.UI.pdb
