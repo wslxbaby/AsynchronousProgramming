@@ -3,3 +3,9 @@ D:\Others\VS Projects\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\
 D:\Others\VS Projects\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\AsynchronousProgramming.pdb
 D:\Others\VS Projects\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\AsynchronousProgramming.exe
 D:\Others\VS Projects\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\AsynchronousProgramming.pdb
+D:\Others\AsynchronousProgramming\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\AsynchronousProgramming.exe
+D:\Others\AsynchronousProgramming\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\AsynchronousProgramming.pdb
+D:\Others\AsynchronousProgramming\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\AsynchronousProgramming.exe.config
+D:\Others\AsynchronousProgramming\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\AsynchronousProgramming.exe
+D:\Others\AsynchronousProgramming\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\AsynchronousProgramming.pdb
+D:\Others\AsynchronousProgramming\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\AsynchronousProgramming.csprojResolveAssemblyReference.cache

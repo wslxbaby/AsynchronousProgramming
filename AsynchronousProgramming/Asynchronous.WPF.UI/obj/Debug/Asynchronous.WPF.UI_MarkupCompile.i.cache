@@ -4,12 +4,20 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 E:\源码\AsynchronousProgramming\AsynchronousProgramming\Asynchronous.WPF.UI\obj\Debug\
+=======
+D:\Others\AsynchronousProgramming\AsynchronousProgramming\Asynchronous.WPF.UI\obj\Debug\
+>>>>>>> e06406ef011f6fd06e5e997fb2cd4396702994e9
 Asynchronous.WPF.UI
 none
 false
 DEBUG;TRACE
+<<<<<<< HEAD
 E:\源码\AsynchronousProgramming\AsynchronousProgramming\Asynchronous.WPF.UI\App.xaml
+=======
+D:\Others\AsynchronousProgramming\AsynchronousProgramming\Asynchronous.WPF.UI\App.xaml
+>>>>>>> e06406ef011f6fd06e5e997fb2cd4396702994e9
 11151548125
 
 9-1893995958
